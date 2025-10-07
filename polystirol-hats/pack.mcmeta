@@ -1,0 +1,13 @@
+{
+	"id": "polystirol-hats",
+	"pack": {
+		"pack_format": 69,
+		"max_format": 69,
+		"min_format": 55,
+		"description":"Best hats in the world!",
+		"supported_formats": {
+			"max_inclusive": 69,
+			"min_inclusive": 55
+		}
+	}
+}
