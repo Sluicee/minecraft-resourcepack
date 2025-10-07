@@ -1,0 +1,13 @@
+{
+    "providers": [        
+		{
+			"type": "bitmap",
+			"file": "invisible:font/invisible.png",
+			"ascent": 8,
+			"height": 8,
+			"chars": [
+				" !\"#$%&'()*+,-./0123456789:;<=>?@ABCDEFGHIJKLMNOPQRSTUVWXYZ[\\]^_`abcdefghijklmnopqrstuvwxyz{|}~§"
+			]
+		}
+	]
+}
