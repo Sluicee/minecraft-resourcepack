@@ -1,10 +1,10 @@
 {
-	"id": "polystirol-hats",
+	"id": "polystirol",
 	"pack": {
 		"pack_format": 69,
 		"max_format": 69,
 		"min_format": 55,
-		"description":"Best hats in the world!",
+		"description": "§bServer Expansion Pack v1.2\n§7by pugiko",
 		"supported_formats": {
 			"max_inclusive": 69,
 			"min_inclusive": 55
