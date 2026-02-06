@@ -1,0 +1,85 @@
+{
+  "providers": [
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_cf8f0542-46c9-47d5-9f49-707f5dc08ca8.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue000"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_e30d08de-af5c-45f5-9fc4-f10072f0aa96.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue001"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_c4c5822c-6cfd-4051-8ba5-2cba246d8ead.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue002"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_57d0b5cb-8e7b-497b-9784-5e2fd7c6547e.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue003"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_04e99494-ad14-4692-b045-910d527ffd47.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue004"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_350cbe28-d1ef-44ff-9ca1-1bd08d94cbff.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue005"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_0ca1a97a-b46e-4bb3-a5ad-084359e9840e.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue006"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_24bfd6d1-4627-4bbb-8bc6-bea19ffb0641.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue007"
+      ]
+    },
+    {
+      "type": "bitmap",
+      "file": "minecraft:font/badge_cc21335f-564c-4a81-bb62-479af8ed78ef.png",
+      "ascent": 8,
+      "height": 8,
+      "chars": [
+        "\ue008"
+      ]
+    }
+  ]
+}
